@@ -156,9 +156,18 @@ for i in col:
 
 
 10. More steps add in EDA(ipynb file) like Multivariant and plotly graph.
-
+```````````````````````````````````````````````````````````````````````````````````````````````````
 11. Insights
-it help inform decision-making or provide a deeper understanding of the dataset.
+
+- Top 5(international movies, drama..) genres in which most content is being distributed.
+- Most content release in 2018.
+- According to geographical disstribution, the most content count in united states then india.
+- In Time series analysis, the most titles count in 2019, month june and rating TV_MA.
+- When we analyse the count of ratings , TV_MA take most count of rating.
+- The length of movies or episodes mostly take 1 Season.
+- The distribution of content,acording to countrywise(United states>india>united kingdom>japan>South korea).
+- The time of duration according to release is reduce and rating is up year by year.
+- The international movies, drama etc.genres and type Movie content are more popular among users.
 
 10. Save Processed Data
 python
